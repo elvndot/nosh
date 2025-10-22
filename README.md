@@ -1,2 +1,2 @@
 # nosh
-A website displaying noshins work.
+A website displaying noshins future work.
